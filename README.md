@@ -1,4 +1,4 @@
-KeyboardRemapperSE is a program that remaps various IMEs' output to Swedish keyboard layouts, programmed in AutoHotkey 2.0.
+KeyboardRemapperSE is a program that adapts various IMEs' input to Swedish keyboard layouts, programmed in AutoHotkey 2.0.
 
 The current version supports only Microsoft Pinyin IME.
 
