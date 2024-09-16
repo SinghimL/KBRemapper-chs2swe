@@ -4,6 +4,9 @@
 fatherName := "KeyboardRemapper.exe"
 
 SC053::Send "."
+vkA5 & SC026::{
+    DllCall("User32.dll\LockWorkStation")
+}
 
 SetTimer(IsFatherRunning, 500)
 
